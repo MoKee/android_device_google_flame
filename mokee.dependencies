@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_google_flame",
+    "target_path": "vendor/google/flame"
+  },
+  {
     "repository": "android_device_google_coral",
     "target_path": "device/google/coral"
   }
